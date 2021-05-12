@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QW4eGg18YbTDmPft1eoIlUIMwJEfC9ykEAEdcJRU5BiIHqiuHRSbwhbXqTnZBUBmDUBiSjVnqXP1y5z5d03Mfw==",
+  "success": true,
+  "projectFilePath": "C:\\var\\proj\\Benchmarker\\fsharp\\FsharpBenchmark\\FsharpBenchmark.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ajax\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

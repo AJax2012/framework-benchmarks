@@ -1,0 +1,14 @@
+{
+  "name": "resitfy-benchmark",
+  "version": "1.0.0",
+  "description": "restify API benchmark",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Gardner",
+  "license": "ISC",
+  "dependencies": {
+    "restify": "^8.5.1"
+  }
+}
